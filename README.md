@@ -2,6 +2,19 @@
 
 Simple automation library for Creality Halot Mage Pro 3D printer.
 
+# Feature
+- Send sliced file to the printer via Wi-Fi or Ethernet.
+- Start, pause, stop, and set print parameters.
+- Get printer status.
+
+# Installation
+
+## NuGet
+
+```sh
+Install-Package HalotMageProSharp
+```
+
 # Usage
 
 1. Instanciate a `HalotMageProClient` object with the IP address of your printer.  

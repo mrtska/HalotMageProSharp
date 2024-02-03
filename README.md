@@ -2,6 +2,9 @@
 
 Simple automation library for Creality Halot Mage Pro 3D printer.
 
+This is an unofficial library.
+Please do not contact Creality regarding this library.
+
 # Feature
 - Send sliced file to the printer via Wi-Fi or Ethernet.
 - Start, pause, stop, and set print parameters.

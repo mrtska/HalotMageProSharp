@@ -15,6 +15,11 @@
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <Copyright>mrtska</Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Description>Simple automation library for Creality Halot Mage Pro 3D printer.
+
+This is an unofficial library.
+Please do not contact Creality regarding this library.</Description>
+    <Title>HalotMageProSharp</Title>
   </PropertyGroup>
 
   <ItemGroup>
